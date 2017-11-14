@@ -1,14 +1,9 @@
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/986_left.jpeg,1
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1002_left.jpeg,1
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1008_left.jpeg,1
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1008_right.jpeg,1
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1029_right.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1029_left.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1047_left.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1047_right.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1056_right.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1056_left.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1057_right.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1057_left.jpeg,0
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1084_left.jpeg,1
-F:/Diabetic Retinopathy/TrainDataPreProcessed/FinalData/1084_right.jpeg,1
+986_left,1
+1002_left,1
+1008_left,1
+1008_right,1
+1029_right,0
+1029_left,0
+1047_left,0
+1047_right,0
+1056_right,0
